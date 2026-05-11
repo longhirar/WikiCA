@@ -1,0 +1,52 @@
+# Arquivos gerados pelo Jekyll (Build local)
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Dependências do Ruby e Bundler
+.bundle/
+vendor/
+Gemfile.lock
+
+# Sistema Operacional: macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Sistema Operacional: Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.cab
+*.lnk
+Desktop.ini
+
+# Sistema Operacional: Linux
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+
+# Editores de código e IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.netrwhist
+
+# Ferramentas de Wiki / Markdown (Ex: Obsidian)
+.obsidian/
+.logseq/
+
+# Logs e arquivos temporários
+*.log
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*

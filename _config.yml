@@ -1,0 +1,18 @@
+title: Wiki CABCC
+email: contato@cabcc.com.br
+description: >- 
+  Base de conhecimento do Centro Acadêmico de Ciência da Computação da PUCPR.
+baseurl: "/"
+url: "https://wiki.cabcc.com.br" # O domínio onde o site será hospedado
+
+
+theme: minima
+
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+exclude:
+  - README.md
+  - LICENSE
